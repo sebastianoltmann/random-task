@@ -2,7 +2,7 @@
 
 ### Senior Full Stack PHP Developer
 
-Link do oferty pracy: [Senior Full Stack PHP Developer](https://justjoin.it/offers/puzzleup-sp-z-o-o-senior-full-stack-php-developer){:target="_blank"}
+Link do oferty pracy: <a href="https://justjoin.it/offers/puzzleup-sp-z-o-o-senior-full-stack-php-developer" target="_blank">Senior Full Stack PHP Developer</a>
 
 ### Opis działania
 
